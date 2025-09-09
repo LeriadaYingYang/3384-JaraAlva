@@ -1,6 +1,7 @@
 # Repositorio de Fundamentos de Algoritmos
 
 Repositorio de Fundamentos de Algoritmos donde se trabajará algoritmos en el Lenguaje de Programación C# usando Visual Studio Community, Git Bash and Github
+Usare para hacerlos lso ejemplos en el Pycharm
 
 ## Lenguaje de Programación
 
@@ -50,8 +51,3 @@ Repositorio de Fundamentos de Algoritmos donde se trabajará algoritmos en el Le
 - Estructuras Condicionales Multiples
 - Estructuras Condicionales Anidadas
 - Estructuras Condicionales Repetitivas (For, While, Do While)
-
-## Arreglos
-
-- Arrays Unidimensionales (Vectores)
-- Arrays Bidimensionales (Matrices)ales (Matrices)
