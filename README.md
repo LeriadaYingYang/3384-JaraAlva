@@ -6,7 +6,7 @@ Usare para hacerlos lso ejemplos en el Pycharm
 ## Lenguaje de Programación
 
 - C#
-- Python
+- PyCharm
 
 ## Control de Versiones
 
@@ -51,3 +51,7 @@ Usare para hacerlos lso ejemplos en el Pycharm
 - Estructuras Condicionales Multiples
 - Estructuras Condicionales Anidadas
 - Estructuras Condicionales Repetitivas (For, While, Do While)
+
+## Que Software se uso
+
+- Pycharm
