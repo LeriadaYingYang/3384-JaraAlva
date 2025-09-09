@@ -1,1 +1,1 @@
-#Aca se subira todo lo relacionado con el pythom
+#Aca se subira todo lo relacionado con el pythom del c#
