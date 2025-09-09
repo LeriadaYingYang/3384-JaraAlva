@@ -1,7 +1,7 @@
 # Repositorio de Fundamentos de Algoritmos
 
 Repositorio de Fundamentos de Algoritmos donde se trabajará algoritmos en el Lenguaje de Programación C# usando Visual Studio Community, Git Bash and Github
-Usare para hacerlos lso ejemplos en el Pycharm
+Usare para hacerlos los ejemplos en el Pycharm
 
 ## Lenguaje de Programación
 
