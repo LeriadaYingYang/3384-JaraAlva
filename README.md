@@ -1,23 +1,25 @@
 # Repositorio de Fundamentos de Algoritmos
 
-Repositorio de Fundamentos de Algoritmos donde se trabajará algoritmos en el Lenguaje de Programación C# usando Visual Studio Community, Git Bash and Github
-Usare para hacerlos los ejemplos en el Pycharm
+Repositorio de Fundamentos de Algoritmos donde se trabajará algoritmos en el Lenguaje de Programación C# usando Visual Studio 2022, Git Bash and Github
+Usare los ejercicios de c# hecho en clase para hacerlos a Pythom en el Software de Pycharm
 
 ## Lenguaje de Programación
 
 - C#
-- PyCharm
+- Python
 
 ## Control de Versiones
 
 - GitBash
 - Github
+- Pycharm
 
 #### Comandos de Configuración
 - git config --global user.name "Tu Nombre"
 - git config --global user.email "tu@email.com"
 - git config --global core.editor "code -wait"
 - git config --list
+- git mkdir
 
 #### Comandos Básicos de Repositorio
 - git init                    # Inicializar repositorio
