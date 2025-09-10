@@ -1,7 +1,7 @@
 # Repositorio de Fundamentos de Algoritmos
 
 Repositorio de Fundamentos de Algoritmos donde se trabajará algoritmos en el Lenguaje de Programación C# usando Visual Studio 2022, Git Bash and Github
-Usare los ejercicios de c# hecho en clase para hacerlos a Pythom en el Software de Pycharm
+Usare los ejercicios de c# hecho en clase y los pdf que estan en el aula virtual
 
 ## Lenguaje de Programación
 
@@ -12,7 +12,6 @@ Usare los ejercicios de c# hecho en clase para hacerlos a Pythom en el Software 
 
 - GitBash
 - Github
-- Pycharm
 
 #### Comandos de Configuración
 - git config --global user.name "Tu Nombre"
@@ -52,8 +51,8 @@ Usare los ejercicios de c# hecho en clase para hacerlos a Pythom en el Software 
 - Estructuras Condicionales Dobles
 - Estructuras Condicionales Multiples
 - Estructuras Condicionales Anidadas
-- Estructuras Condicionales Repetitivas (For, While, Do While)
 
 ## Que Software se uso
 
 - Pycharm
+- Visual Studio 2022
