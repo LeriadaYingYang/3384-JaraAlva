@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Ejercicio_Practicamos_2
 {
-    internal class Program
+    internal class Ejercicio_Practicamos_2
     {
         static void Main(string[] args)
         {
@@ -25,7 +25,6 @@ namespace Ejercicio_Practicamos_2
 
             double resultado = t1 + t2 + t3 + t4;
             Console.WriteLine("Su nota ponderada es de: " + resultado);
-
         }
     }
 }
