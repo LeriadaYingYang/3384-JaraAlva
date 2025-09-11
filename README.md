@@ -1,6 +1,6 @@
 # Repositorio de Fundamentos de Algoritmos
 
-Repositorio de Fundamentos de Algoritmos donde se trabajará algoritmos en el Lenguaje de Programación C# usando Visual Studio 2022, Git Bash and Github
+Repositorio de Fundamentos de Algoritmos donde se trabajará algoritmos en el Lenguaje de Programación C# usando Visual Studio 2022 y Pycharm, Git Bash and Github
 Usare los ejercicios de c# hecho en clase y los pdf que estan en el aula virtual
 
 ## Lenguaje de Programación
