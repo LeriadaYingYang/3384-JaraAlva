@@ -6,7 +6,7 @@ if monto_venta > 999:
 else:
 	dscto = monto_venta * 0.99
 	print("No se aplica IGV para montos de venta menores o iguales a 999")
-#Un ni�o dislexico quiere saber que vocal es al indicar un numero (1-5)
+#Un niño dislexico quiere saber que vocal es al indicar un numero (1-5)
 num = int(input("Ingrese un numero del 1 al 5: "))
 if num == 1:
 	print("La vocal es A")
