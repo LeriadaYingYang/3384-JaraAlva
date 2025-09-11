@@ -10,6 +10,3 @@ area = base * altura
 perimetro = 2 * (base + altura)
 print("El �rea del terreno rectangular es: ", area)
 print("El per�metro del terreno rectangular es: ", perimetro)
-
-
-
