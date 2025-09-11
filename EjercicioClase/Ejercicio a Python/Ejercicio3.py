@@ -1,3 +1,4 @@
+#aca si funciona
 print("Menu de Opciones")
 print("1. Algoritmo secuencias")
 print("2. Algoritmo condicionales simple")
