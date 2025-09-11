@@ -5,6 +5,7 @@ print("2. Algoritmo condicionales simple")
 print("3. Algoritmo condicionales doble")
 print("4. Algoritmo condicionales anidado")
 opcion = int(input("Seleccione una opcion: "))
+
 if opcion == 1:
     print("Algoritmo Secuencial")
     costo = 2

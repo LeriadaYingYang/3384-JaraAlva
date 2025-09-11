@@ -1,4 +1,5 @@
 # calcular el IGV cuando el monto de venta sea superior a 999
+
 monto_venta = float(input("Ingrese el valor de venta: "))
 if monto_venta > 999:
 	igv = monto_venta * 0.18
