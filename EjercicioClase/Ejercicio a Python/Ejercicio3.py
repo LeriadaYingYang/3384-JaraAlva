@@ -36,7 +36,7 @@ elif opcion == 3:
                 print("El numero ingresado no esta en el rango de 1 a 5")
 elif opcion == 4:
             print("Algoritmo Condicional Anidado")
-            nota = int(input("Ingrese la calificación: "))
+            nota = int(input("Ingrese la calificaciÃ³n: "))
 
             if 0 <= nota <= 100:
                 if nota >= 90:
