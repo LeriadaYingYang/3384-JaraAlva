@@ -1,1 +1,6 @@
-""" Dado un número, si es menor que cero, hallar su valor absoluto, de lo contrario, mostrar la raíz cuadrada. """
+""" Dado un numero, si es menor que cero, hallar su valor absoluto, de lo contrario, mostrar la raiz cuadrada. """
+num = float(input("Ingrese un nÃºmero: "))
+if num < 0:
+    print(f"El valor absoluto de {num} es {abs(num)}")
+else:
+    print(f"La raÃ­z cuadrada de {num} es {num**0.5}")
