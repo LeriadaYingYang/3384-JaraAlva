@@ -1,0 +1,1 @@
+""" Elaborar un programa que pida dos números y verifique si son iguales """
