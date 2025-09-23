@@ -19,6 +19,7 @@ namespace Ejercicio_ActividadSemanal_1
             double perimetro = 2 * (baserec + altura);
             Console.WriteLine("El Area del terreno rectangular es de: " + area);
             Console.WriteLine("El perimetro del terreno rectangular es de: " + perimetro);
+            Console.ReadKey();
         }
     }
 }

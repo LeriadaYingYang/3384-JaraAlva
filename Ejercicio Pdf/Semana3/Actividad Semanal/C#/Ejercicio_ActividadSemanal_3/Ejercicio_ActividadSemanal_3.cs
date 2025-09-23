@@ -15,6 +15,7 @@ namespace Ejercicio_ActividadSemanal_3
             double metro = double.Parse(Console.ReadLine());
             double pulgadas = metro * 39.3701;
             Console.WriteLine("El Resultado en pulgadas es de : " + pulgadas);
+            Console.ReadKey();
         }
     }
 }

@@ -17,6 +17,8 @@ namespace Ejercicio_ActividadSemanal_2
             double altura = double.Parse(Console.ReadLine());
             double volumen = Math.PI * (Math.Pow(radio, 2)) * altura;
             Console.WriteLine("El volumen del cilindro es : " + volumen);
+            Console.ReadKey();
+
 
         }
     }

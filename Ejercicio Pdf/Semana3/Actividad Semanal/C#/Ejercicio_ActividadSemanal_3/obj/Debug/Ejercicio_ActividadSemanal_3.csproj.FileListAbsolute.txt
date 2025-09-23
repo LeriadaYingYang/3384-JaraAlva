@@ -1,0 +1,7 @@
+C:\Users\JADE\source\repos\3384-JaraAlva\Ejercicio Pdf\Semana3\Actividad Semanal\C#\Ejercicio_ActividadSemanal_3\bin\Debug\Ejercicio_ActividadSemanal_3.exe.config
+C:\Users\JADE\source\repos\3384-JaraAlva\Ejercicio Pdf\Semana3\Actividad Semanal\C#\Ejercicio_ActividadSemanal_3\bin\Debug\Ejercicio_ActividadSemanal_3.exe
+C:\Users\JADE\source\repos\3384-JaraAlva\Ejercicio Pdf\Semana3\Actividad Semanal\C#\Ejercicio_ActividadSemanal_3\bin\Debug\Ejercicio_ActividadSemanal_3.pdb
+C:\Users\JADE\source\repos\3384-JaraAlva\Ejercicio Pdf\Semana3\Actividad Semanal\C#\Ejercicio_ActividadSemanal_3\obj\Debug\Ejercicio_ActividadSemanal_3.csproj.AssemblyReference.cache
+C:\Users\JADE\source\repos\3384-JaraAlva\Ejercicio Pdf\Semana3\Actividad Semanal\C#\Ejercicio_ActividadSemanal_3\obj\Debug\Ejercicio_ActividadSemanal_3.csproj.CoreCompileInputs.cache
+C:\Users\JADE\source\repos\3384-JaraAlva\Ejercicio Pdf\Semana3\Actividad Semanal\C#\Ejercicio_ActividadSemanal_3\obj\Debug\Ejercicio_ActividadSemanal_3.exe
+C:\Users\JADE\source\repos\3384-JaraAlva\Ejercicio Pdf\Semana3\Actividad Semanal\C#\Ejercicio_ActividadSemanal_3\obj\Debug\Ejercicio_ActividadSemanal_3.pdb

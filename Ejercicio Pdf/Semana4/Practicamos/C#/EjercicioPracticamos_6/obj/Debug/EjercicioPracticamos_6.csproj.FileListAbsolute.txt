@@ -1,0 +1,8 @@
+C:\Users\JADE\Source\Repos\3384-JaraAlva\Ejercicio Pdf\Semana4\Practicamos\C#\EjercicioPracticamos_6\bin\Debug\EjercicioPracticamos_6.exe.config
+C:\Users\JADE\Source\Repos\3384-JaraAlva\Ejercicio Pdf\Semana4\Practicamos\C#\EjercicioPracticamos_6\bin\Debug\EjercicioPracticamos_6.exe
+C:\Users\JADE\Source\Repos\3384-JaraAlva\Ejercicio Pdf\Semana4\Practicamos\C#\EjercicioPracticamos_6\bin\Debug\EjercicioPracticamos_6.pdb
+C:\Users\JADE\Source\Repos\3384-JaraAlva\Ejercicio Pdf\Semana4\Practicamos\C#\EjercicioPracticamos_6\obj\Debug\EjercicioPracticamos_6.csproj.AssemblyReference.cache
+C:\Users\JADE\Source\Repos\3384-JaraAlva\Ejercicio Pdf\Semana4\Practicamos\C#\EjercicioPracticamos_6\obj\Debug\EjercicioPracticamos_6.csproj.CoreCompileInputs.cache
+C:\Users\JADE\Source\Repos\3384-JaraAlva\Ejercicio Pdf\Semana4\Practicamos\C#\EjercicioPracticamos_6\obj\Debug\EjercicioPracticamos_6.exe
+C:\Users\JADE\Source\Repos\3384-JaraAlva\Ejercicio Pdf\Semana4\Practicamos\C#\EjercicioPracticamos_6\obj\Debug\EjercicioPracticamos_6.pdb
+C:\Users\JADE\Source\Repos\3384-JaraAlva\Ejercicio Pdf\Semana4\Practicamos\C#\EjercicioPracticamos_6\obj\Debug\EjercicioPracticamos_6.exe.config

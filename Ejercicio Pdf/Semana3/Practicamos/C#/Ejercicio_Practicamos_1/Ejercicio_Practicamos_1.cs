@@ -11,7 +11,7 @@ namespace Ejercicio_Practicamos_1
         static void Main(string[] args)
         {
             //Hallar la hipotenusa de un triángulo rectángulo.
-            Console.WriteLine("Ingrese el primer lado (cateto A): ");
+            Console.WriteLine("Ingrese el primer lado (casteto A): ");
             double a = double.Parse(Console.ReadLine());
             Console.WriteLine("Ingrese el segundo lado (cateto B): ");
             double b = double.Parse(Console.ReadLine());
