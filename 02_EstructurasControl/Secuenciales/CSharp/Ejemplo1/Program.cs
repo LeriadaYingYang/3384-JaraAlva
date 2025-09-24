@@ -11,15 +11,21 @@ namespace Ejemplo1
     {
         static void Main(string[] args)
         {
-            /*Cálculo de sueldo con descuento de impuestos del 8% de impuesto*/
-            Console.Write("Ingrese el sueldo base: ");
-            double sueldoBase = double.Parse(Console.ReadLine());
+            /*¿Cómo calcular el área de un triángulo en base a sus 3 lados?*/
 
-            double descuento = sueldoBase * 0.08;
-            double sueldoNeto = sueldoBase - descuento;
+            Console.WriteLine("Ingrese lado A:");
+            int la = int.Parse(Console.ReadLine());
 
-            Console.WriteLine("El descuento aplicado es: " + descuento);
-            Console.WriteLine("El sueldo neto es: " + sueldoNeto);
+            Console.WriteLine("Ingrese lado B:");
+            int lb = int.Parse(Console.ReadLine());
+
+            Console.WriteLine("Ingrese lado C:");
+            int lc = int.Parse(Console.ReadLine());
+
+            double s = (la + lb + lc) / 2.0;
+            double area = Math.Sqrt(s * (s - la) * (s - lb) * (s - lc));
+
+            Console.WriteLine("El área es:" + area);
             Console.ReadKey();
 
         }

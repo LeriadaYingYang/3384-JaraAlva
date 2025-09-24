@@ -1,9 +1,11 @@
-#Cálculo de sueldo con descuento de impuestos con 8% de impuesto
+#¿Cómo calcular el área de un triángulo en base a sus 3 lados?
 
-sueldo_base = float(input("Ingrese el sueldo base: "))
+la = int(input("Ingrese lado A: "))
+lb = int(input("Ingrese lado B: "))
+lc = int(input("Ingrese lado C: "))
 
-descuento = sueldo_base * 0.08
-sueldo_neto = sueldo_base - descuento
+s = (la + lb + lc) / 2
 
-print("El descuento aplicado es:", descuento)
-print("El sueldo neto es:", sueldo_neto)
+area = (s * (s - la) * (s - lb) * (s - lc)) ** 0.5
+
+print("El área es:", area)
