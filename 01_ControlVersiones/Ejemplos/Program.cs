@@ -53,6 +53,21 @@ namespace Ejemplos
                     }
                 }
             }
+            /*Agregando otro ejemplo de ingresar nombre sumar el promedio de 4 notas y sacar promedio un ultimo comit*/
+            string nombre;
+            float n1, n2, n3, n4, promedio;
+            Console.WriteLine("Ingrese su nombre");
+            nombre = Console.ReadLine();
+            Console.WriteLine("Ingrese la primera nota");
+            n1 = float.Parse(Console.ReadLine());
+            Console.WriteLine("Ingrese la segunda nota");
+            n2 = float.Parse(Console.ReadLine());
+            Console.WriteLine("Ingrese la tercera nota");
+            n3 = float.Parse(Console.ReadLine());
+            Console.WriteLine("Ingrese la cuarta nota");
+            n4 = float.Parse(Console.ReadLine());
+            promedio = (n1 + n2 + n3 + n4) / 4;
+            Console.WriteLine("El promedio de " + nombre + " es: " + promedio);
             Console.ReadKey();
 
 
