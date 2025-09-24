@@ -27,6 +27,7 @@ namespace Ejemplo2
             double volumen = (h / 3.0) * (S1 + S2 + Math.Sqrt(S1 * S2));
 
             Console.WriteLine("El volumen del tronco de cono es: " + volumen);
+            Console.ReadKey();
 
         }
     }

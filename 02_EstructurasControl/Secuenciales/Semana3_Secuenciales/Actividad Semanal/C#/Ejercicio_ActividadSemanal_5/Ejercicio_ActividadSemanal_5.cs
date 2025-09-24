@@ -23,6 +23,7 @@ namespace Ejercicio_ActividadSemanal_5
 
             Console.WriteLine("El area es de : " + area);
             Console.WriteLine("El volumen es de : " + volumen);
+            Console.ReadKey();
         }
     }
 }

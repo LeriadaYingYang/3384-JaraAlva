@@ -15,6 +15,7 @@ namespace Ejercicio_ActividadSemanal_4
             double horas = double.Parse(Console.ReadLine());
             double monto = horas * 2.50;
             Console.WriteLine("El monto a pagar es de: s/. " + monto);
+            Console.ReadKey();
         }
     }
 }

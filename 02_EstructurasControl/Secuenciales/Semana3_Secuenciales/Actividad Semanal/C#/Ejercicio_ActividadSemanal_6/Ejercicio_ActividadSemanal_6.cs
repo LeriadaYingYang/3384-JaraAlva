@@ -27,6 +27,7 @@ namespace Ejercicio_ActividadSemanal_6
 
             Console.WriteLine("La primera raíz es: " + lado1);
             Console.WriteLine("La segunda raíz es: " + lado2);
+            Console.ReadKey();
         }
     }
 }

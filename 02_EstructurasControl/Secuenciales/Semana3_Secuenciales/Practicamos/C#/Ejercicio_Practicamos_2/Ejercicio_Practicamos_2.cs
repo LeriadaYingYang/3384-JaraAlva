@@ -25,6 +25,7 @@ namespace Ejercicio_Practicamos_2
 
             double resultado = t1 + t2 + t3 + t4;
             Console.WriteLine("Su nota ponderada es de: " + resultado);
+            Console.ReadKey();
         }
     }
 }

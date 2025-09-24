@@ -18,6 +18,7 @@ namespace Ejercicio_Practicamos_4
             double bono = 85;
             double sueldo_neto = sueldo - descuento_afp - descuento_vida + bono;
             Console.WriteLine("El sueldo neto del trabajador es: " + sueldo_neto);
+            Console.ReadKey();
         }
     }
 }

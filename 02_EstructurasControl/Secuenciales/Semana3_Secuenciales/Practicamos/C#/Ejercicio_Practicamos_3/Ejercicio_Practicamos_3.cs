@@ -21,6 +21,7 @@ namespace Ejercicio_Practicamos_3
             Console.WriteLine("El resultado de la suma es: " + suma);
             Console.WriteLine("El resultado del producto es: " + producto);
             Console.WriteLine("El resultado del promedio es: " + promedio);
+            Console.ReadKey();
         }
     }
 }
