@@ -1,0 +1,7 @@
+C:\Users\JADE\Source\Repos\3384-JaraAlva\02_EstructurasControl\Secuenciales\CSharp\Ejemplo1\bin\Debug\Ejemplo1.exe.config
+C:\Users\JADE\Source\Repos\3384-JaraAlva\02_EstructurasControl\Secuenciales\CSharp\Ejemplo1\bin\Debug\Ejemplo1.exe
+C:\Users\JADE\Source\Repos\3384-JaraAlva\02_EstructurasControl\Secuenciales\CSharp\Ejemplo1\bin\Debug\Ejemplo1.pdb
+C:\Users\JADE\Source\Repos\3384-JaraAlva\02_EstructurasControl\Secuenciales\CSharp\Ejemplo1\obj\Debug\CSharp.csproj.AssemblyReference.cache
+C:\Users\JADE\Source\Repos\3384-JaraAlva\02_EstructurasControl\Secuenciales\CSharp\Ejemplo1\obj\Debug\CSharp.csproj.CoreCompileInputs.cache
+C:\Users\JADE\Source\Repos\3384-JaraAlva\02_EstructurasControl\Secuenciales\CSharp\Ejemplo1\obj\Debug\Ejemplo1.exe
+C:\Users\JADE\Source\Repos\3384-JaraAlva\02_EstructurasControl\Secuenciales\CSharp\Ejemplo1\obj\Debug\Ejemplo1.pdb
