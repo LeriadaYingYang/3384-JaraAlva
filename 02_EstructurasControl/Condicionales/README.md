@@ -10,8 +10,10 @@ Tambien se divide y se encontrara ejemplos de:
 La carpeta de condicionales estan de esta forma en cada carpeta de Anidadas, Dobles, Multiples, Simple.
 - Csharp
 - → Ejemplo 1 del S04_Estructuras Condicionales simple, doble y múltiples.(En las anidadas cambia a la Semana 5)
+- → Ejemplo 2
 - Python
 - → Ejemplo 1 S04_Estructuras Condicionales simple, doble y múltiples.(En las anidadas cambia a la Semana 5)
+- → Ejemplo 2
 - README.md
 
 ---
