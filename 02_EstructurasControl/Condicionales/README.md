@@ -1,4 +1,4 @@
-﻿# INTEGRACION DEL LA CARPETA SECUENCIALES
+﻿# INTEGRACION DEL LA CARPETA CONDICIONALES
 
 En esta carpeta secuencial, se almacenarán todos los ejercicios y ejemplos. Aquí se encontrara implementaciones en ambos lenguajes, C# y Python, que cubren:
 - **C#**  
