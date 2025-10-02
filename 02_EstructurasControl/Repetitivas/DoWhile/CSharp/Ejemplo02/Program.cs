@@ -10,6 +10,23 @@ namespace Ejemplo02
     {
         static void Main(string[] args)
         {
+            Console.Write("Número: ");
+            int numero = int.Parse(Console.ReadLine());
+
+            Console.Write("Número invertido: ");
+            invertir(numero);
+
+            Console.ReadKey();
+        }
+
+        static void invertir(int x)
+        {
+            do
+            {
+                int residuo = x % 10;
+                Console.Write(residuo);
+                x = x / 10;
+            } while (x > 0);
         }
     }
 }

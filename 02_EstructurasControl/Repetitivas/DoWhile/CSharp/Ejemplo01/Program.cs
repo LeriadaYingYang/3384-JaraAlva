@@ -10,6 +10,7 @@ namespace Ejemplo01
     {
         static void Main(string[] args)
         {
+            /*1*/
         }
     }
 }
