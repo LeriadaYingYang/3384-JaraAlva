@@ -24,3 +24,7 @@ Adicionalmente se agrego otra carpeta con ejemplos de la clase con nombre Semana
 - →→ 2 Ejercicios de caso Practico en C# y Python del While.
 
 ---
+
+Se agrego adicionalmente otra carpeta de la semana 7 de DO WHILE.
+- →Actividad semanal de Do While.
+- →Practico de Do While.
